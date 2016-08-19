@@ -1,0 +1,12 @@
+Total time: 134.5723
+Winner: Blue team
+Red team
+Agent0: steps=125 exchanged knowledge=2
+Agent1: steps=125 exchanged knowledge=3
+Agent2: steps=125 exchanged knowledge=3
+Blue team
+Agent0: 235
+Agent1: 235
+Agent2: 3644
+Agent3: 235
+Agent4: 235
